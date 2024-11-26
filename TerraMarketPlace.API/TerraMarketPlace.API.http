@@ -1,0 +1,6 @@
+@TerraMarketPlace.API_HostAddress = http://localhost:5116
+
+GET {{TerraMarketPlace.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
